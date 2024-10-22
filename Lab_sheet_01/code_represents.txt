@@ -1,0 +1,15 @@
+code represents
+A Adenine
+G Guanine
+C Cytosine
+T Thymine
+Y Pyrimidine (C or T)
+R Purine (A or G)
+W weak (A or T)
+S strong (G or C)
+K keto (T or G)
+M amino (C or A)
+D A, G, T (not C)
+V A, C, G (not T)
+H A, C, T (not G)
+B C, G, T (not A)

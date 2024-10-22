@@ -1,0 +1,6 @@
+File: lane7027_ACTGAT_JH25_L001_R1.fastq.gz, Sample Name: JH25
+File: lane7027_ACTTGA_E30_1_2_Hap4_24h_L001_R1.fastq.gz, Sample Name: E30_1_2_Hap4_24h
+File: lane7027_AGTTCC_JH14_L001_R1.fastq.gz, Sample Name: JH14
+File: lane7027_CGGAAT_JH37_L001_R1.fastq.gz, Sample Name: JH37
+File: lane7027_GCCAAT_E30_1_2l_Hap4_log_L001_R1.fastq.gz, Sample Name: E30_1_2l_Hap4_log
+File: lane7127_GGCTAC_E30_1_4_Hap4_48h_L001_R1.fastq.gz, Sample Name: E30_1_4_Hap4_48h
